@@ -1,0 +1,22 @@
+{
+  "name": "gas",
+  "version": "1.0.0",
+  "description": "gas app",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/jaymanligas/gas.git"
+  },
+  "keywords": [
+    "gas"
+  ],
+  "author": "Jay Manligas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jaymanligas/gas/issues"
+  },
+  "homepage": "https://github.com/jaymanligas/gas#readme"
+}
